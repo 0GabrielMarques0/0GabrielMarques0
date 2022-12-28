@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-Estou atualmente cursando engenharia mecânica na UFRPE e<br>nesta área possuo habilidades técnicas em mecânica <br>industrial, também tenho interesse em ampliar meus conhecimentos<br>na campo da tecnologia, que é uma área que me desafia <br>constantemente a querer aprender cada vez mais, por conta <br>disso iniciei o curso técnico em Desenvolvimento de Sistemas <br>na Escola Técnica Estadual Cícero Dias, uma das referências<br>em tecnologia em Pernambuco.
+Estou atualmente cursando engenharia mecânica na UFRPE e nesta área possuo habilidades técnicas em mecânica industrial, também tenho interesse em ampliar meus conhecimentos na campo da tecnologia, que é uma área que me desafia constantemente a querer aprender cada vez mais, por conta disso iniciei o curso técnico em Desenvolvimento de Sistemas na Escola Técnica Estadual Cícero Dias, uma das referências em tecnologia em Pernambuco.
 
 
 ## 🌐 Socials:
