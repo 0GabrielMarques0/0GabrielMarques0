@@ -1,8 +1,6 @@
-### Olá 👋
+### Olá sou o Gabriel👋
 # 💫 Sobre mim:
-Olá, meu nome é Gabriel Marques e sou um estudante em transição para a área de tecnologia. Iniciei minha carreira com formação em engenharia mecânica e ainda continuo com a formação nessa área. Essa formação me permitiu desenvolver habilidades analíticas e lógicas, além de uma compreensão sólida de matemática e ciências.
-
-No entanto, estou buscando novas oportunidades de aprendizado e crescimento profissional na área de tecnologia. Atualmente, estou cursando um técnico em desenvolvimento de sistemas e um superior em sistemas de informação para me aprimorar nessa área.
+Sou um estudante em transição para a área de tecnologia, com formação em engenharia mecânica e atualmente cursando um técnico em desenvolvimento de sistemas e um superior em sistemas de informação. Estou buscando novas oportunidades de aprendizado e crescimento profissional na área de tecnologia.
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielmarques.n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marques-0998461a1/)
