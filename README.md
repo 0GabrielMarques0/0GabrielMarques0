@@ -1,4 +1,4 @@
-### Olá sou o Gabriel👋
+### Olá sou o Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 # 💫 Sobre mim:
 Sou um estudante em transição para a área de tecnologia, com formação em engenharia mecânica e atualmente cursando um técnico em desenvolvimento de sistemas e um superior em sistemas de informação. Estou buscando novas oportunidades de aprendizado e crescimento profissional na área de tecnologia.
 
