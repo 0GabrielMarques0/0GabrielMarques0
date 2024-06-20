@@ -1,6 +1,15 @@
 ### Olá sou o Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 # 💫 Sobre mim:
-Sou um estudante em transição para a área de tecnologia, com formação em engenharia mecânica e atualmente formado no curso técnico em desenvolvimento de sistemas e com previsão de inicial uma pós na área de tecnologia. Estou buscando novas oportunidades de crescimento profissional na área de tecnologia.
+Engenheiro Mecânico em formação com experiência em Desenvolvimento de Sistemas buscando oportunidades desafiadoras em empresas inovadoras. Apaixonado por aprender e com grande capacidade de adaptação, possuo habilidades técnicas e interpessoais que me permitem trabalhar de forma autônoma e em equipe.
+
+Meus principais diferenciais:
+ - Curiosidade e fome por desafios: Busco constantemente novos desafios e oportunidades para aprender e crescer profissionalmente.
+- Formação em Engenharia Mecânica e Técnico em Desenvolvimento de Sistemas: Combino conhecimentos em mecânica e tecnologia, me tornando um profissional versátil e apto a atuar em diferentes áreas.
+- Aprendizagem contínua: Sempre busco me atualizar sobre as últimas tendências e tecnologias do mercado.
+- Habilidades técnicas: Proficiência em diversas linguagens de programação, ferramentas de design e softwares de engenharia.
+- Habilidades interpessoais: Excelente comunicação, trabalho em equipe, organização e proatividade.
+
+Pronto para contribuir com minhas habilidades e conhecimentos para o sucesso da sua empresa.
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielmarques.n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marques-0998461a1/)
